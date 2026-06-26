@@ -8,9 +8,9 @@ The original submitted video accidentally showed the default scripted pick-and-p
 
 ## Supplemental Video
 
-[Watch or download the manual-control demonstration video](assets/cs2810_quiz_pick_speed2x_0626_540p8.mp4)
+![Manual mocap and keyboard-control demonstration](assets/cs2810_quiz_manual_demo_preview.gif)
 
-<video src="assets/cs2810_quiz_pick_speed2x_0626_540p8.mp4" controls width="900"></video>
+[Watch or download the MP4 version](assets/cs2810_quiz_pick_speed2x_0626_540p8.mp4)
 
 ## Timestamp Evidence
 
